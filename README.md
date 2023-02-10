@@ -1,4 +1,9 @@
-# Simulations for TurtleBot3 - With Create 1 Base additions - use ros2-devel branch!
+# Simulations for TurtleBot3 - With Create 1 Base additions
+## use ros2-devel branch!
+
+See https://github.com/slgrobotics/turtlebot3/tree/ros2-devel
+
+-----------------
 
 ## ROBOTIS e-Manual for TurtleBot3
 - [ROBOTIS e-Manual for TurtleBot3](http://turtlebot3.robotis.com/)
